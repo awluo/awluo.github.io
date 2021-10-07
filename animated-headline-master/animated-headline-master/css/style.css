@@ -55,7 +55,7 @@ Primary style
 }
 
 .cd-headline {
-  font-size: 2rem;
+  font-size: 2.5rem;
   line-height: 1.2;
 }
 @media only screen and (min-width: 768px) {
@@ -66,7 +66,7 @@ Primary style
 }
 @media only screen and (min-width: 1170px) {
   .cd-headline {
-    font-size: 6rem;
+    font-size: 4rem;
   }
 }
 
